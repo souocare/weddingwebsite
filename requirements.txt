@@ -1,0 +1,14 @@
+Flask>=3.0
+Werkzeug>=3.0
+Jinja2>=3.1
+
+pandas>=2.0
+numpy>=2.0
+
+requests>=2.30
+certifi
+
+beautifulsoup4>=4.12
+
+# Optional
+mailjet-rest>=1.5
